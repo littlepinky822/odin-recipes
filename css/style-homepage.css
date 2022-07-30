@@ -1,0 +1,16 @@
+h1 {
+    background-color: rgb(252, 191, 170);
+    text-align: center;
+}
+
+ul {
+    color: saddlebrown;
+}
+
+.cookies {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.brownies {
+    font-family: 'Courier New', Courier, monospace;
+}

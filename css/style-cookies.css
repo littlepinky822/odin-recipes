@@ -1,0 +1,18 @@
+img {
+    width: 300px;
+    height: auto;
+}
+
+h1 {
+    font-weight: bold;
+    font-family:"Lucida Console", Georgia, Monaco;
+}
+
+h3 {
+    font-weight: bold;
+    color: rgb(83, 83, 0);
+}
+
+.shadow {
+    background-color: rgba(172, 172, 172, 0.81);
+}
